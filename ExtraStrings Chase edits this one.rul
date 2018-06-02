@@ -1137,4 +1137,4 @@ extraStrings:
       STR_MEDI_KIT_UFOPEDIA: "To use this you face an injured {NEWLINE}X-Com agent or stand over the body of a stunned aquanaut.{NEWLINE}HEALING> Red indicates wounds. Select the affected body part and click on the 'Heal' button. One fatal wound will be healed and some health will be restored.{NEWLINE}STIMULANT> Restores energy and revives stunned aquanauts. To revive an unconscious aquanaut you must stand directly over the body.{NEWLINE}PAIN KILLER> Restores the morale of wounded aquanauts."
       STR_THERMAL_SHOK_LAUNCHER_UFOPEDIA: "A small Thermal Shok Launcher which fires chemical freeze bombs. It should prove very useful for capturing live Aliens."
       STR_ALIEN_PROBE_MISSION_UFOPEDIA: "The Alien Probe Mission is used for collecting data about the seabed, its resources, and the shipping routes and airplane flight paths of an area. The Alien subs involved in these missions are not a major threat by themselves, but they indicate sites of activity that may flare up at any time."
-# Last updated: 2018-04-07
+# Last updated: 2018-04-07 #this hasn't been updated 
