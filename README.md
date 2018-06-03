@@ -1,6 +1,6 @@
 # TWoTS-English-Translation
 
-You can find the latest English translations in the filed called "ExtraStrings.rul" in the folder called ___
+You can find the latest English translations in the file called "ExtraStrings.rul"
 
 Simply copy this file into the following directory and overwrite the file that is already there.
 
