@@ -67,7 +67,7 @@ extraStrings:
       STR_FREEZER_CLIP: "Freezer Clip"
       STR_FREEZER_CLIP_UFOPEDIA: "This cell contains specific chemicals and a Zrbite power source and can be fired from the Freezer."
       STR_PROJECTOR: "M.C. Projector"
-      STR_PROJECTOR_UFOPEDIA: "This weapon is actually a cyborg used by high-ranking aliens to increase M.C. skills if their own skills are lacking. Aside from many abilities useful in everyday work, it can be used as a self-defense weapon. In this mode it projects powerful telekinetic pulses, which damages material objects (like armored suits or walls) and slows targets (reduces TU). It can also cause heavy wounds, although this is not its main purpose."
+      STR_PROJECTOR_UFOPEDIA: "This weapon is actually a cyborg animal used by high-ranking aliens to increase M.C. skills if their own skills are lacking. Aside from many abilities useful in everyday work, it can be used as a self-defense weapon. In this mode it projects powerful telekinetic pulses, which damages material objects (like armored suits or walls) and slows targets (reduces TU). It can also cause heavy wounds, although this is not its main purpose."
       STR_MC_FOCUS: "M.C. Focuser"
       STR_MC_FOCUS_UFOPEDIA: "This device converts the user's M.C. potential into destructive vibrations which can be concentrated on a nearby point in space. This effectively allows the user to destroy targets through walls. M.C. training required.{NEWLINE}Power bonus: M.C. Strength*0.5{NEWLINE}Accuracy: M.C. Skill*2.5{NEWLINE}Max. range: 8"
       STR_MCBA_HAND: "M.C.B.A. Emitter"
@@ -82,22 +82,23 @@ extraStrings:
       STR_CHURCH_DATA_UFOPEDIA: "The presence of Aquatoids in a city center was a great surprise to us. We now understand that cultists have been helped by the Aliens to restore an artifact salvaged from a UFO that was shot down during the previous war. Analysis shows that this is an Alien computer, which contains mostly communication protocols, but it also capable of hyperwave broadcasts. We are unable to decipher the broadcasts, but we have found a list of previous broadcasts. Shockingly, the first record seems to be a repeating message dated from over ten years ago.{NEWLINE}{NEWLINE}Importantly, we've also found copies of S.O.R.E.S.O. reports stolen from our archives. Among other things, they contain the approximate location of the 'Khimtar' crash site. By strange coincidence, it is near the shipwreck of the RMS Titanic.{NEWLINE}Terabytes of personal data of cult members were found there, too. However, such personal data is of no value to us, so we've transferred the data to Interpol, which will hopefully curtail the threat of the Church of Sirius."
       STR_SORESO_WRECK: "Khimtar Prototype Black Box"
       STR_SORESO_WRECK_UFOPEDIA: "Our analysis of the prototype wreckage indicates that the craft was sunk during an attack from an unknown enemy. According to our aquanauts' reports, the wreckage area was infested with Xarquids, which are capable of such attacks. {NEWLINE}{NEWLINE}In addition to telemetry and other technical specifications, we found a matrix of map coordinates. We believe these coordinates mark UFO crash sites from the previous war."
+      STR_SORESO_WRECK_PRE: "S.O.R.E.S.O. craft wreckage analysis"
       STR_NAGA_SOCIETY: "Naga Society"
       STR_NAGA_SOCIETY_UFOPEDIA: "Now we know that the ancient myths were true. Naga dwelled in the oceans for millennia and contacted humans at regular intervals. What is more important to us, however, is the discovery that they've built temples on the sea bottom, which are undoubtedly devoted to their underwater god. Some of these facilities can be located now that we know what to search for."
-      STR_SYNOM: "Alien Synomium Device Fragments"
+      STR_SYNOM: "Alien Synomium Device fragments"
       STR_SYNOM_U: "Synomium Device"
-      STR_SYNOM_UFOPEDIA: "The working principles of this device remain a mystery. We hypothesize that it uses weak electromagnetic fields of high frequency to make some kind of connection with an unknown signal source. Using communications protocols extracted from a high-ranked Alien navigator, we can read the data from this source and partially decipher transmissions from the Alien communications network."
-      STR_MC_DISRUPTOR_UFOPEDIA: "This advanced M.C. device allows its users to directly interfere with a host's implant. The device may only be used by aquanauts with M.C. skills. Successful attack with the disruptor causes the unit to becomes confused and it may panic.{NEWLINE}Requires direct line of sight and has limited range.{NEWLINE}Max. Range: 15m"
+      STR_SYNOM_UFOPEDIA: "Work principes of this device remains a mystery. We can suggest that it uses weak electromagnetic fields of high frequency to form some kind of bond with unknown signal source. Anyway, using communication protocols from high-ranked Alien navigator, we can read the data from this source, and partially decipherate transmissions from alien comm network."
+      STR_MC_DISRUPTOR_UFOPEDIA: "This advanced M.C. device allows its users to directly interfere with a host's implant. The device may only be used by aquanauts with M.C. skills. Successful attack with the disruptor causes the unit to becomes confused and it may panic.{NEWLINE}Maximal range: 15m"
       STR_MC_CONTROLLER: "M.C. Controller"
       STR_MC_CONTROLLER_UFOPEDIA: "The ultimate in M.C. technology, this device does not require direct line of sight nor does it have a maximum range. It may only be used by aquanauts with M.C. skills. Click on the Controller, select the type of attack, and select a target unit with the cursor. There are two types of attacks:{NEWLINE}JAM IMPLANT> If successful the unit becomes confused and it may panic.{NEWLINE}CONTROL IMPLANT> If successful you will gain control of the enemy unit."
-      STR_MOLECTRONICS: "Alien Molectronic Components"
+      STR_MOLECTRONICS: "Molectronic Components"
 #techs
       STR_INTRODUC: "The Mary Celeste Sinkings"
-      STR_INTRODUC_UFOPEDIA: "In the past few years, shipping and civilian travel organizations all over the world became concerned as surface vessels and aircraft began disappearing with alarming frequency while crossing the world's oceans. Reports of strange submersible vehicles spotted at the sites of some of the disappearances were dismissed by world governments, but not by the general public. Responding to tabloid accounts of another possible Alien invasion, the public cried out for the governments of the world to reactivate the heroic X-Com organization as a precautionary measure.{NEWLINE}{NEWLINE}Starting from the end of the previous Alien War, an organization called Sub-Oceanic Reconnaissance and Extraterrestrial Salvage Operations (S.O.R.E.S.O.), owned by F. Denman Williams, has been employed cataloging underwater UFO crash sites to then search for sealed Elerium containers among the wreckage. To appease the public, the world governments have taken control of key S.O.R.E.S.O. assets and have officially established 'Ocean Base 1' as X-Com's first operational command center." 
+      STR_INTRODUC_UFOPEDIA: "In the past few years, shipping and civilian travel organizations all over the world became concerned as surface vessels and aircraft began disappearing with alarming frequency while crossing the world's oceans. Reports of strange submersible vehicles spotted at the sites of some of the disappearances were dismissed by world governments, but not by the general public. Responding to tabloid accounts of another possible Alien invasion, the public cried out for the governments of the world to reactivate the heroic X-Com organization as a precautionary measure.{NEWLINE}{NEWLINE}Starting from the end of the previous Alien War, an organization called Sub-Oceanic Reconnaissance and Extraterrestrial Salvage Operations (S.O.R.E.S.O.), owned by F. Denman Williams, has been employed cataloguing underwater UFO crash sites to then search for sealed Elerium containers among the wreckage. To appease the public, the world governments have taken control of key S.O.R.E.S.O. assets and have officially established 'Ocean Base 1' as X-Com's first operational command center." 
       STR_OCEAN1: "Ocean Base 1"
       STR_OCEAN1_UFOPEDIA: "Ocean Base 1 is our new headquarters. Confronting aquatic threats is a new effort for X-Com, so our tactics and weaponry must be developed practically from scratch. Though we possess some aquatic equipment, more complex tools must be researched, designed, and developed specifically for these needs. Resources from the previous war will be of little help to us because all Elerium reserves have long since been exhausted, and almost all Alien technology based on Elerium requires it to function. Even our newest and best alloys use Elerium as a reactant for fabrication."
       STR_OCEAN2: "Water Pressure Complications"
-      STR_OCEAN2_UFOPEDIA: "The ocean is a harsh environment, and below certain depths water pressure becomes a factor. If the aquanaut's armor has any breaches, he/she will take stun damage each turn. At the moment, it's the only downside to wearing armor. This applies if Aquanauts dive too deep with the Aqualung armor."
+      STR_OCEAN2_UFOPEDIA: "The ocean is a harsh environment, and at below certain depths water pressure becomes a factor. If your armor has any breaches, you will take stun damage each turn. At the moment, it's the only downside to wearing armor. This applies if you dive too deep with the Aqualung armor."
 
       STR_SPECWEAP: "Special Weapons Acquisition"
       STR_SPECWEAP_DUMMY: "Special Weapons Acquisition"
@@ -110,10 +111,10 @@ extraStrings:
       STR_AQUAWEAP_DUMMY: "Self-propelled Projectiles"
       STR_AQUAWEAP_UFOPEDIA: "If we want to win the subsea war, we'll need proper weaponry. Self-propelled rounds can travel much farther underwater, and with modern technology we can achieve accuracy comparable with that of common surface firearms. Advanced projectiles of this kind may level the playing field for our aquanauts and maybe even our interceptors.{NEWLINE}{NEWLINE}Available manufacturing projects:{NEWLINE}     Dart Pistol{NEWLINE}     Dart Autogun{NEWLINE}     Jet Harpoon Rifle"
       STR_AQUAWEAP_2: "Heavy Aquatic Weapons"
-      STR_AQUAWEAP_2_UFOPEDIA: "The resilience of our enemies demands more firepower, and the potential of self-propelled rounds has not been fully realized. We can now manufacture heavier weapons for aquatic warfare. {NEWLINE}Important note: Some of these weapons will only work under water.{NEWLINE}{NEWLINE}Available manufacturing projects:{NEWLINE}     Gas Cannon{NEWLINE}     Hydro-Jet Cannon{NEWLINE}     Torpedo Launcher"
+      STR_AQUAWEAP_2_UFOPEDIA: "The resilence of our enemies demands more firepower, and the potential of self-propelled rounds has not been fully realized. We can now manufacture heavier weapons for aquatic warfare. {NEWLINE}Important note: Some of these weapons will only work under water.{NEWLINE}{NEWLINE}Available manufacturing projects:{NEWLINE}     Gas Cannon{NEWLINE}     Hydro-Jet Cannon{NEWLINE}     Torpedo Launcher"
       STR_SUPCAV: "Supercavitation Propulsion"
       STR_SUPCAV_DUMMY: "Supercavitation Propulsion"
-      STR_SUPCAV_UFOPEDIA: "Supercavitation is the use of cavitation effects to create a bubble of vapor inside a liquid large enough to encompass an object traveling through the liquid, greatly reducing the skin friction drag on the object and enabling the achievement of very high speeds. Possible implementations include not only upgraded weapon projectiles, but possibly even the application of these principles to whole crafts."
+      STR_SUPCAV_UFOPEDIA: "Supercavitation is the use of cavitation effects to create a bubble of vapor inside a liquid large enough to encompass an object travelling through the liquid, greatly reducing the skin friction drag on the object and enabling the achievement of very high speeds. Possible implementations include not only upgraded weapon projectiles, but possibly even the application of these principles to whole crafts."
       STR_SUPCAV_AMMO: "Supercavitating Ammo"
       STR_SUPCAV_AMMO_DUMMY: "Supercavitating Ammo"
       STR_SUPCAV_AMMO_UFOPEDIA: "We have developed a supercavitation engine small enough to fit into a bullet. Integrating this technology will significantly improve the damage output of our underwater weapons.{NEWLINE}{NEWLINE}Available manufacturing projects:{NEWLINE}     Craft Gas Cannon{NEWLINE}     SC Dart Clip{NEWLINE}     SC Harpoon Clip{NEWLINE}     HJ SC Ammo"
@@ -135,7 +136,7 @@ extraStrings:
       STR_SONIC_TECH: "Sonic Technology"
       STR_SONIC_TECH_UFOPEDIA: "All Alien sonic weapons have been found to have no triggers or buttons, and dismantling them has revealed relatively large volumes of organic tissue inside. We now suspect that Alien implants are capable of operating these weapons, but we are still lost in conjecture about how this is possible."
       STR_SONIC_WM: "Sonic Weapons Manufacturing"
-      STR_SONIC_WM_UFOPEDIA: "By combining our knowledge of sonic weapon operation with our findings from researching a live {NEWLINE}Bio-drone, we can develop this kind of weapons for ourselves."
+      STR_SONIC_WM_UFOPEDIA: "By combining our knowledge of sonic weapon operation with our findings from researching a live {NEWLINE}bio-drone, we can develop this kind of weapons for ourselves."
       STR_ALIEN_MOLECTRONIC: "Alien Molectronics"
       STR_ALIEN_MOLECTRONIC_DUMMY: "Alien Molectronics"
       STR_ALIEN_MOLECTRONIC_UP: "After multiple examination of cybernetic devices implanted into the bodies of our enemies, we've managed to learn about the structure of some of them. These circuits are superior to anything that humans have invented, and we cannot reproduce them. Nevertheless, we were able to operate some of them. Learning about this technology will greatly advance the scientific capabilities of all of humanity, and it will be of immediate benefit to X-Com."
@@ -145,13 +146,13 @@ extraStrings:
       STR_WORMS_EVOLVE: "Evolution of Mind Worms"
       STR_WORMS_EVOLVE_UFOPEDIA: "We've discovered a connection between the so called 'Mind Worms' and the so called 'Locusts' through our research. Our main hypothesis at this time is that Mind Worms possess an enormous capability to adapt to environmental conditions, the source of which lies in the Alien genetic programming written into each of their cells. {NEWLINE}{NEWLINE}Since we do not have adequate knowledge of Alien genetics, we cannot predict their next form. What we do know about worms at the moment is that they can float, create hard mineralized shells, and that they group in large hordes. Most importantly, though, is that they can sense neural activity at long range and interfere with it, causing panic and stun damage."
       STR_WORMS_HATCHERY: "Mind Worms Hatchery"
-      STR_WORMS_HATCHERY_UFOPEDIA: "The samples found on the floating island prove the theory of the artificial evolution of Mind Worms.{NEWLINE}{NEWLINE}Activation of some specimens during our operation can be explained by the Mind Worms' ability to sense brain waves. The thought of an island like this coming close to major city and fully activating brings chills to our bones. We must destroy those islands as quickly as we can."
+      STR_WORMS_HATCHERY_UFOPEDIA: "The samples found on the floating island prove the theory of the artifical evolution of Mind Worms.{NEWLINE}{NEWLINE}Activation of some specimens during our operation can be explained by the Mind Worms' ability to sense brain waves. The thought of an island like this coming close to major city and fully activiting brings chills to our bones. We must destroy those islands as quickly as we can."
       STR_MC_LAB_PRE: "Molecular Control"
-      STR_MC_LAB_PRE_UFOPEDIA: "From battle reports of our aquanauts we know that some aliens are capable of causing panic in or even taking control of a human body, even though no Psionic activity was detected. Interrogation of such a special creature will give us clues about these capabilities. {NEWLINE}{NEWLINE}We also suspect that these aliens have a special type of implant. Research indicates that some Alien species are more capable of utilizing these implants than others, and some of them have mastered it enough to directly manipulate fine electromagnetic fields around them. Some can even manipulate these fields precisely enough to cause interferences in the neural system of a subject or even gain control over its body. Additionally, the implants make aliens highly resistant to Psionic attacks. {NEWLINE}{NEWLINE}We believe that on the highest levels of molecular control mastery it may be possible to control matter directly, as some kind of telekinesis. We are also confident that Zrbite is connected to that possibility somehow."
+      STR_MC_LAB_PRE_UFOPEDIA: "From battle reports of our aquanauts we know that some aliens are capable of causing panic in or even taking control of a human body, even though no psionic activity was detected. Interrogation of such a special creature will give us clues about these capabilities. {NEWLINE}{NEWLINE}We also suspect that these aliens have a special type of implant. Research indicates that some Alien species are more capable of utilizing these implants than others, and some of them have mastered it enough to directly manipulate fine electromagnetic fields around them. Some can even manipulate these fields precisely enough to cause interferences in the neural system of a subject or even gain control over its body. Additionally, the implants make aliens highly resistant to psionic attacks. {NEWLINE}{NEWLINE}We believe that on the highest levels of molecular control mastery it may be possible to control matter directly, as some kind of telekinesis. We are also pretty sure that Zrbite is connected to that possibility somehow."
       STR_MC_BIO: "Biological Molecular Control"
-      STR_MC_BIO_UFOPEDIA: "While researching Mind Worms our biologists discovered an organ working as natural electromagnetic field emitter. We do not know if is this an experimental specimen created by the aliens or a natural extraterrestrial evolutionary result. {NEWLINE}{NEWLINE}Deep research of this tissue has lead us to some great discoveries, including the new use of Molectronic implants. Instead of just gaining control over Alien devices, we now possess the capability to interfere with a live organism's neural system to cause intense shock or maybe even issue commands."
+      STR_MC_BIO_UFOPEDIA: "While researching Mind Worms our biologists discovered an organ working as natural electromagnetic field emitter. We do not know if is this an experimental specimen created by the aliens or a natural extraterrestrial evolutionary result. {NEWLINE}{NEWLINE}Deep research of this tissue has lead us to some great discoveries, including the new use of molectronic implants. Instead of just gaining control over Alien devices, we now possess the capability to interfere with a live organism's neural system to cause intense shock or maybe even to issue commands."
       STR_MC_SOLDIERS: "Special Recruits"
-      STR_MC_SOLDIERS_UFOPEDIA: "Progress in the adaptation of Alien implants has allowed us to recruit specially prepared aquanauts as well as build appropriate training facilities. Our researchers have designed one such facility called the M.C.-Lab, which we can now construct.{NEWLINE}{NEWLINE}Available recruit specialties: {NEWLINE}M.C.-Gifted Aquanauts: Special screening processes reveal those who are more capable of molecular control. They are not professional soldiers, so they are costly due to price and lack of training.{NEWLINE}M.C.-Protected Aquanauts: Using a special implant configuration, we can shield humans' minds from M.C. exposure. The drawback is the complete inability for these recruits to operate M.C. devices.{NEWLINE}Cyborg Aquanauts: These recruits' implants are focused on body improvement, raising all capabilities. These soldiers are stronger, faster, more agile, and better trained. They also can achieve physical characteristics that are not possible for ordinary people. The price they pay for this is diminished M.C. strength."
+      STR_MC_SOLDIERS_UFOPEDIA: "Progress in the adaptation of Alien implants has allowed us to recruit specially prepared aquanauts as well as build appropriate training facilities. Our researchers have designed one such facility called the M.C.-Lab, which we can now construct.{NEWLINE}{NEWLINE}Available recruit specialties: {NEWLINE}M.C.-Gifted Aquanauts: Special screening processes reveal those who are more capable of molecular control. They are not professional soldiers, so they are costly due to price and lack of training.{NEWLINE}M.C.-Protected Aquanauts: Using a special implant configuration, we can shield humans' minds from M.C. exposure. The drawback is the complete inability for these recruits to operate M.C. devices.{NEWLINE}Cyborg Aquanauts: These recruits' implants are focused on body improvement, raising all capabilities. These soldiers are stronger, faster, more agile, and better trained. They also can acheive physical characteristics that are not possible for ordinary people. The price they pay for this is diminished M.C. strength."
       STR_FL_SUBS: "Flying Submarines"
       STR_FL_SUBS_DUMMY: "Flying Submarines"
       STR_FL_SUBS_UFOPEDIA: "Flying submarines were the dream of designers and the nightmare of engineers for over a century. But with the development of photon accelerators, spearheaded by {NEWLINE}F. Denman Williams, we can design and manufacture crafts capable of flying like airplanes and swimming like dolphins. These vessels can also carry the most modern military weaponry.{NEWLINE}{NEWLINE}Available manufacturing projects:{NEWLINE}     CORMORANT"
@@ -160,11 +161,13 @@ extraStrings:
       STR_DEVICE: "Mysterious Alien Device"
       STR_ALIEN_CODES: "Old Alien Beacon"
       STR_ALIEN_CODES_UFOPEDIA: "This device resembles a short-range hyperwave transmitter, calibrated for the various frequencies of common Alien hypercommunications. It appears its purpose is to connect with something on the sea bottom. Our specialists will contact global telecommunications corporations and begin hyperwave scanning on the given frequencies."
+      STR_ALIEN_CODES_PRE: "Old battleship analysis"
       STR_ALIEN_KEY: "Alien Key"
       STR_ALIEN_KEY_UFOPEDIA: "This is not a key like we had initially thought, but rather a kind of transmitter. Found in a Naga City, it was guarded by their fiercest warriors, which likely means the relic is both sacred and ancient. Ages ago, the key was given to the Naga as a token needed to admit them to visit 'a sleeping god'. This 'right of passage' served a reward for their loyalty to this god." 
       STR_CHAMBER: "Ancient Cloning Device"
       STR_CLONE_CHAMBER: "Ancient Clone Chamber"
       STR_CLONE_CHAMBER_UFOPEDIA: "What we found in the ancient Alien dungeon is a sophisticated cloning device. The growing process was interrupted by our attack. DNA samples were too severely damaged during battle to determine the shape of the donor, but we have determined that it is no ordinary Alien. It looks like we arrived just in time, for who knows what we would have faced if this monstrosity had been ready to fight. Surely there is a source for this DNA, so we must find it. Perhaps interrogating Alien high commanders will give us a lead."
+      STR_CLONE_CHAMBER_PRE: "Ancient dungeon analysis"
       STR_CULT_FHTAGN: Cult of the Drowned God
       STR_CULT_FHTAGN_UFOPEDIA: "Our analysis of recent events shows that Aliens are gaining control over small settlements in coastal regions using sophisticated molecular control techniques and religious-style brainwashing. They prefer primitive villages and small, isolated provinces. In these places Aliens are conducting genetic experiments on humans for unknown reasons. We must gain additional intelligence to stop them."
       STR_MUTATIONS: Mutations Analysis
@@ -180,7 +183,7 @@ extraStrings:
       STR_SOLITONE_TECH_UFOPEDIA: "Replicating solitone waves with our own tools was a difficult task, but by using ultradense explosives we managed to succeed. Now we can produce our own solitone ammunition."
       STR_SHIELD_PRE: "M.C. Shields"
       STR_MC_SHIELD: "Molecular Shield"
-      STR_MC_SHIELD_UFOPEDIA: "We've completed construction of a device that reproduces an effect which can be seen when encountering some of the more powerful aliens: the creation of a protective ionized field generated by molecular control. It can absorb energy from projectiles and sonic waves alike, though resistance to melee attacks is quite limited.{NEWLINE}The shield has two parameters: Power (how much damage it can absorb) and Recharge Rate (how much power is restored each turn).{NEWLINE}A standard shield absorbs 20% melee damage, 80% sonic damage, and 100% of any other type of damage."
+      STR_MC_SHIELD_UFOPEDIA: "We've completed construction of a device that reproduces an effect which can be seen when encountering some of the more powerful aliens: the creation of a protective ionized field generated by molecular control. It can absorb energy from projectiles and sonic waves alike, though resistance to melee atacks is quite limited.{NEWLINE}The shield has two parameters: Power (how much damage it can absorb) and Recharge Rate (how much power is restored each turn).{NEWLINE}A standard shield absorbs 20% melee damage, 80% sonic damage, and 100% of any other type of damage."
 #crafts      
       STR_P6M: SEAMASTER
       STR_P6M_UFOPEDIA: "DESIGNED BY THE US NAVY DURING THE COLD WAR, THE MARTIN P6M SEAMASTER IS THE FASTEST FLYING BOAT IN THE WORLD. X-COM AQUANAUTS CAN BE DEPLOYED USING DPV'S FROM ANY SPOT ON THE SEA SURFACE, OR FROM THE AIR USING DROP CORDS. IT CAN ALSO ATTACK TARGETS IN SHALLOW WATER.{NEWLINE}WPN: 1xTRP. PILOT: INCLUDED"
@@ -189,7 +192,7 @@ extraStrings:
       STR_BUOY_UFOPEDIA: "THESE MULTI-BAND SONAR ARRAYS CAN BE ORDERED FROM OUR SUPPLIERS. THEY CAN BE DELIVERED TO ANY POINT ON THE GLOBE AND WILL REMAIN FLOATING IN PLACE UNTIL NEW ORDERS ARE GIVEN. THESE SENSORS CAN DETECT USO'S OVER A 600 NAUTICAL MILE RADIUS WITH 50% DETECTION CHANCES."
       STR_BUOY_A: "ADVANCED DETECTION VESSEL"
       STR_BUOY_A_UC: "MAGNETIC BUOY"
-      STR_BUOY_A_UFOPEDIA: "THESE SENSORS CAN BE EQUIPPED WITH ALIEN NAVIGATION. THEY CAN BE DELIVERED TO ANY POINT ON THE GLOBE AND WILL REMAIN FLOATING IN PLACE UNTIL NEW ORDERS ARE GIVEN. OUR RESEARCHERS BELIEVE THAT THESE DEVICES CAN DETECT NOT ONLY USO'S, BUT ALIEN BASES AS WELL."
+      STR_BUOY_A_UFOPEDIA: "THESE SENSORS ARE EQUIPPED WITH ALIEN NAVIGATION. THEY CAN BE DELIVERED TO ANY POINT ON THE GLOBE AND WILL REMAIN FLOATING IN PLACE UNTIL NEW ORDERS ARE GIVEN. OUR RESEARCHERS BELIEVE THAT THESE DEVICES CAN DETECT NOT ONLY USO'S, BUT ALIEN BASES AS WELL."
       STR_CORM: CORMORANT
       STR_CORM_UFOPEDIA: "THE LOCKHEED MARTIN EXPERI-MENTAL STRIKE DRONE WITH A DUAL ENVIRONMENT JET ENGINE. IT HAS BEEN ADAPTED TO MEET {NEWLINE}X-COM'S NEED TO PURSUE TARGETS BOTH IN AIR AND UNDER WATER. {NEWLINE}WPN: 1xCAN. EVASION: +10%"
       STR_TRITON_UFOPEDIA_NEW: "THE TRITON, AN ASSAULT SQUAD TRANSPORTER, IS FITTED WITH FULL ATMOSPHERIC AND AQUATIC FLIGHT ENGINES. ITS LARGE CAPACITY AND ROBUST CONSTRUCTION ENSURE IT WILL BE A MAINSTAY OF THE X-COM FLEET. PILOTS: 2" 
@@ -219,6 +222,7 @@ extraStrings:
       STR_CAMBALA_UFOPEDIA: "A TRANSPORT SUB WHICH HAS BEEN CAMOUFLAGED TO IMITATE AN ALIEN USO. THOUGH SLOW AND DEFENSELESS, IT CAN COVERTLY CARRY A SQUAD THROUGH THE ALIEN CITY DEFENSES FOR OUR FINAL ASSAULT. PILOTS: 2"
 #craft weapons
       STR_GAUSS_CANNON_AMMO: "Gauss Cannon Ammo (x10)"
+      STR_PWT_CANNON: "P.W.T. Launcher"
       STR_DBOMBLI: "Deep Bomb Launcher"
       STR_DBOMBI: "Deep Bomb"
       STR_DBOMBL: "DEEP BOMBS"
@@ -297,7 +301,7 @@ extraStrings:
       STR_TURTLE_HWP_GAUSS_UFOPEDIA: "This advanced submersible weapon system has reinforced aqua plastic armor and is armed with a powerful Gauss cannon.{NEWLINE}Sonar: 12"
       STR_HWP_GAUSS_AMMO: "SWS Gauss Rounds"
       STR_TURTLE_HWP_ION: "Turtle/Ion Cannon"
-      STR_TURTLE_HWP_ION_UFOPEDIA: "Sadly, the Ion Cannon is too heavy to mount to a Displacer platform, so we've used an upgraded turtle design to create this devastating submersible weapon system. Submerged use only. {NEWLINE}Sonar: 12"
+      STR_TURTLE_HWP_ION_UFOPEDIA: "Sadly, Ion cannon is too heavy to mount on displacer platform, so we use upgraded turtle design to create this devastating submersible weapon system. Submerged use only. {NEWLINE}Sonar: 12"
       STR_HWP_ION: "Ion Cannon Heavy Drone"
       STR_HWP_SOLID_HARPOON_BOLTS: "SWS Gas Rounds"
       STR_DISPLACER_PWT_UFOPEDIA: "This SWS carries Pulse Wave Torpedo launcher. You must manufacture PWT's to keep them fully armed. To fire, select a number of 'way points' then click on the launch icon. Submerged use only."
@@ -310,29 +314,30 @@ extraStrings:
       STR_LUNG_I: "AQUA-LUNG"
       STR_LUNG_UFOPEDIA: "Standard issue light diving suit with an aqua-lung. While it provides no additional protection, it allows relatively free movement under water with the expense of greater expenditure of effort."
       STR_NEWTSUIT: "HARD SUIT"
-      STR_NEWTSUIT_UFOPEDIA: "Newtsuit mk.2035 is an advanced atmospheric diving suit originally designed by Nuytco Research LTD. Our suits have been adapted to accommodate X-Com's operational needs. Durable and highly resistant to pressure fluctuations, the suit is bulky. Two small impellers assist movement under water."
+      STR_NEWTSUIT_UFOPEDIA: "Newtsuit mk.2035 is an advanced atmospheric diving suit originally designed by Nuytco Research LTD. Our suits have been adapted to accomodate X-Com's operational needs. Durable and highly resistant to pressure fluctuations, the suit is bulky. Two small impellers assist movement under water."
       STR_HAZMAT_ARMOR: "HAZMAT SUIT"
       STR_HAZMAT_UFOPEDIA: "Our scientists have managed to acquire materials that resist corrosive agents. This new armor will protect our aquanauts from freezing effects, fire, and acids while somewhat restricting movement."
       STR_EXOSUIT: "EXOSUIT"
       STR_EXOSUIT_UFOPEDIA: "This more advanced hardsuit design is fabricated using aqua plastics and provides exceptional defense from hostile environments. Lighter than a common hardsuit, but still noticeably bulky. Sonar: 12"
       STR_BIONIC_ARMOR: "BIONIC ARMOR"
       STR_HYBRID_ARMOR: "HYBRID ARMOR"
+      STR_ABIONIC_ARMOR: "Advanced Bionic Armor"
       STR_ADV_BIONIC_ARMOR: "ADVANCED BIONIC ARMOR"
       STR_MC_ARMOR: "M.C. ARMOR"
       STR_BIONIC_ARMOR_UFOPEDIA: "From one of our own top scientist's initiative, this suit is a symbiotic organism grown in Alien cloning vats. It can withstand any pressure while supplying oxygen through the use of its own gills. Furthermore, its mighty synthetic muscles make the wearer stronger and faster. Sonar: 12"
-      STR_ADV_BIONIC_ARMOR_UFOPEDIA: "The product of combined human and Abyssian biotech, this advanced symbiotic suit increases the wearer's strength and agility and even restores health. Healing effects rely on the suit, however, so the wounded aquanaut will need time in the infirmary after battle to recover. Sonar: 14"
+      STR_ADV_BIONIC_ARMOR_UFOPEDIA: "Product of combined human and Abyssian biotech, this advanced symbiotic suit not only rises wearer strength and agility, but also restores his health. It is not normal healing though, so wounded aquanaut still need some time in a hospital after battle. Camo: 6, Sonar: 14"
       STR_HYBRID_ARMOR_UFOPEDIA: "Our masterpiece: the suit's muscles make the wearer stronger and faster, and internal aqua plastic plates offer even higher protection. The integrated targeting system increases firing accuracy. The drawback is its weight: the wearer is confined to walking. Camo: 5, Sonar: 12"
-      STR_MC_ARMOR_UFOPEDIA: "Produced from our research of Molecular Control equipment, this aqua plastic suit comes equipped with an integrated Molectronic neuro-net and an antenna complex, which increases the wearer's ability to use Molecular Control techniques. M.C. Vision: 5"
+      STR_MC_ARMOR_UFOPEDIA: "Produced from our research of Molecular Control equipment, this aqua plastic suit comes equipped with an integrated molectronic neuro-net and an antenna complex, which increases the wearer's ability to use Molecular Control techniques. M.C. Vision: 5"
       STR_ZRBITE_ARMOR_UC: "ZRBITE-POWERED ARMOR"
       STR_ZRBITE_ARMOR: "Zrbite-Powered Armor"
-      STR_ZRBITE_ARMOR_UFOPEDIA: "A powerful new protective measure for our aquanauts, this armor is powered by a Zrbite energy source and greatly amplifies the speed and strength of the wearer. It offers the best protection yet for combat troops. Energy Restore: +10, Sonar: 12"
+      STR_ZRBITE_ARMOR_UFOPEDIA: "A powerful new protective measure for our aquanauts, this armor is powered by a Zrbite energy source and greatly amplifies the agility and strength of the wearer. It offers the best protection yet for combat troops. Energy restore +10 Sonar: 12"
       STR_ION_ARMOR_UFOPEDIA_N: "This armor incorporates our new experimental device, the Molecular Shield, which absorbs damage from all sources, for better or worse.{NEWLINE}Sonar: 10, Shield: 100,{NEWLINE}Shield recharge: 2/turn,{NEWLINE}M.C. Defense +20"
       STR_MAGNETIC_ION_ARMOR_UC: "MAG-ION ARMOR"
       STR_MAGNETIC_ION_ARMOR_UC_SURF: "MAG-ION ARMOR"
       STR_MAGNETIC_ION_ARMOR: "Mag-Ion Armor"
       STR_MAGNETIC_ION_ARMOR_UFOPEDIA_N: "An enhancement for the Zrbite-Powered Armor incorporating Ion Displacer and Magnetic Array technology to allow full freedom of movement in the aquatic environment.{NEWLINE}Sonar: 20"
       STR_MCB_ARMOR_UC: "M.C. BATTLEARMOR"
-      STR_MCB_ARMOR_UFOPEDIA: "This cutting-edge design incorporates synthetic muscles, a thick aqua plastic carapace, and advanced cybernetic implants into the armored suit for M.C.-capable operators skilled in close combat, with an integrated M.C.B.A. Emitter. Sonar: 12, M.C. Vision: 5, Shield: 120, Shield recharge: 2/turn."
+      STR_MCB_ARMOR_UFOPEDIA: "This cutting-edge design incorporates synthetic muscules, a thick aqua plastic carapace, and advanced cybernetic implants into the armored suit for M.C.-capable operators skilled in close combat, with an integrated M.C.B.A. Emitter. Sonar: 12, M.C. Vision: 5, Shield: 120, Shield recharge: 2/turn."
       STR_MCB_ARMOR: "M.C. Battlearmor"
       STR_CORPSE_MCBA: "Corpse"
       STR_CORPSE_BIOSUIT: "Corpse"
@@ -373,14 +378,13 @@ extraStrings:
       HEAVY_GILLMAN_ARMOR: "GILLMAN EXOSKELETON"
       TASOTHGUARD_ARMOR: "TASOTH GUARD PLATING"
 #weapons
-
       STR_KNIFE: "Knife"
       STR_KNIFE_UFOPEDIA: "A conventional diver's knife, useful for cutting seaweed or an enemy's neck."
       STR_HARP: "Harpoon"
       STR_HARP_CLIP: "Solid Harpoon"
       STR_HARP_CLIP_E: "Explosive Harpoon"
       STR_HARP_CLIP_ST: "Tranquilizer Harpoon"
-      STR_HARP_UFOPEDIA: "Standard harpoon thrower, useful for hunting big fish. If we want to win the war, we will need something better. This weapon can throw common harpoons, explosive harpoons, and syringe-tipped tranquilizer harpoons."
+      STR_HARP_UFOPEDIA: "Standard harpoon thrower, useful for hunting big fish. If we want to win the war, we will need something better. This weapon can throw common harpoons, explosive harpoons, and syringe-tipped traquilizer harpoons."
       STR_P11: "P11"
       STR_P11_CLIP: "P11 Drum"
       STR_P11_UFOPEDIA: "The famous German underwater pistol, designed in 1976 by Heckler & Koch. It has a very short range but can fire in auto-mode using unique 5-shot cartridges."
@@ -431,7 +435,7 @@ extraStrings:
       STR_MICROTORP_LAUNCHER_UFOPEDIA: "This unusual weapon fires tiny, guided hydrojet missiles. While these rounds are extremely precise, their range is limited, and so is their power. To fire, select one or two 'way points' then click on the launch icon.{NEWLINE}Max. Range: 20m. Submerged use only."
       STR_MICROTORP_CLIP_ZR_UFOPEDIA: "These microtorpedoes use Zrbite as an explosive, inflicting huge amounts of damage."
       STR_HG_CANNON: "Heavy Gas Cannon"
-      STR_HG_CANNON_UFOPEDIA: "A more compact size with the same power is not as preferable as more power from the original size. This new aqua plastic weapon is still bulky, but packs a heavier punch. Because of intense recoil, auto-fire is very inaccurate."
+      STR_HG_CANNON_UFOPEDIA: "A more compact size with the same power is not as preferrable as more power from the original size. This new aqua plastic weapon is still bulky, but packs a heavier punch. Because of intense recoil, auto-fire is very inaccurate."
       STR_HG_HE_AMMO: "HGC-HE Ammo"
       STR_HG_ZR_AMMO: "HGC-Zrbite Ammo"
       STR_HG_ZR_AMMO_UFOPEDIA: "These rounds use Zrbite as an explosive, inflicting huge amounts of damage."
@@ -445,7 +449,7 @@ extraStrings:
       STR_SMART_TORPEDOES: "Smart Projectiles"
       STR_SMART_TORPEDOES_UFOPEDIA: "Using Alien Molectronics, we can create navigation devices small enough to fit in hand-held weapon ammunition. It allows projectiles to repeatedly correct their trajectory en route, granting outstanding aim. To fire these weapons, select one or two 'way points' then click on the launch icon.{NEWLINE}{NEWLINE}Available manufacturing projects:{NEWLINE}     Microtorpedo Launcher{NEWLINE}     Microtorpedo Clip AP{NEWLINE}     Microtorpedo Clip HE{NEWLINE}     Microtorpedo Clip P"
       STR_SMART_TORPEDO: "Guided Torpedo"
-      STR_SMART_TORPEDO_UFOPEDIA: "This sophisticated weapon manufactured using Alien Molectronics can correct its trajectory hundreds of times per second. However, the control unit takes up more space, so fewer explosives can be accommodated."
+      STR_SMART_TORPEDO_UFOPEDIA: "This sophisticated weapon manufactured using Alien molectronics can correct its trajectory hundreds of times per second. However, the control unit takes up more space, so fewer explosives can be accommodated."
       STR_HEAVY_GL: "Cyclop Heavy Grenade Launcher"
       STR_HEAVY_SC_UFOPEDIA: "This weapon is mounted to the right arm of the Cyclop Armor. It is almost as heavy and destructive as a Craft Sonic Cannon. Powered from the armor's energy source, it needs no ammunition."
       STR_HEAVY_SC: "Cyclop Heavy Sonic Cannon"
@@ -454,13 +458,13 @@ extraStrings:
       STR_SOLITONE_GRENADE: "Cyclop Solitone Grenade"
       STR_SOLITONE_GRENADE_UFOPEDIA: "Heavy grenade for the Cyclop Armor's launcher, which emits a solitone pulse. Ignores half armor. Reduces Morale and TU."
       STR_SPRAY: "CHEMICAL NEUTRALIZER"
-      STR_SPRAY_UFOPEDIA: "This compound acts as a fire extinguisher and an acid neutralizer. It is effective even under water."
+      STR_SPRAY_UFOPEDIA: "This compound act as fire extinguisher and acid neutralizer, and is effective even under water."
       STR_ADVMEDIKIT: "Advanced Medi-Kit"
       STR_ADVMEDIKIT_UFOPEDIA: "The insights we've had into Alien surgery have enabled us to improve our Medi-Kit. This new version provides more powerful stimulants and can heal more damage per critical wound treatment."
       STR_INJECTOR: "Biogel Injector"
-      STR_INJECTOR_UFOPEDIA: "Our research of Abyssian biotech has yielded its first result. This one-use syringe injects a powerful regenerative mixture, curing one fatal wound and restoring part of any lost health. Aquanauts can use it on themselves."
+      STR_INJECTOR_UFOPEDIA: "Our research of Abyssian biotech gave first results: this one-use syringe injects powerful regenerative mixture, curing one fatal wound and restoring part of lost health. Can be used on self."
       STR_GAUSS_SNIPER: "Gauss Sniper Rifle"
-      STR_GAUSS_SNIPER_UFOPEDIA: "Gauss technology allows us to achieve nearly unlimited underwater weapon range. This sniper rifle is equipped with lengthened particle accelerators, which increases damage but requires careful aim."
+      STR_GAUSS_SNIPER_UFOPEDIA: "Gauss technology allows us to achieve nearly unlimited underwater weapon range. This sniper rifle is equipped with lengthened particle accellerators, which increases damage but requires careful aim."
       STR_GAUSS_SNIPER_CLIP: "Gauss Sniper Clip"
       STR_AUTOGAUSS: "Gauss Autogun"
       STR_AUTOGAUSS_UFOPEDIA: "The automatic edition of Gauss weaponry uses three independent particle accelerators to fire an almost continuous stream of projectiles, causing havoc and devastation.{NEWLINE}Auto-fire: 6 shots"
@@ -474,7 +478,7 @@ extraStrings:
       STR_CHAINS: "Chainsword"
       STR_CHAINS_UFOPEDIA: "This weapon is a combination of human and Alien melee technologies. The ultradense, vibrating teeth of this chainsaw can cut through anything, rending flesh and aqua plastic alike. Though heavy and slow to operate, this tool can breach a USO hull in one strike."
       STR_VIBROKNIFE: "Vibro Knife"
-      STR_VIBROKNIFE_UFOPEDIA: "After multiple requests from our Aquanauts, we've designed this pocket-sized self-defense weapon. It is basically a reduced version of Alien Vibro-Blade."
+      STR_VIBROKNIFE_UFOPEDIA: "After multiple requests of our aquanauts, we made this pocket-sized self defense weapon, basically reduced version of alien Vibro-blade."
       STR_REPAIR_TOOL: "Armor Repair Tool"
       STR_REPAIR_TOOL_UFOPEDIA: "This tool deals no damage, but instead fills breaches in armor using aqua plastic patches. The target must expose the correct side to the user to make repairs."
 #uso
@@ -484,7 +488,11 @@ extraStrings:
       STR_PATROL_UFOPEDIA: "This is the smallest Alien vessel capable of carrying weapons. They are usually deployed for reconnaissance and survey missions."
       STR_FIGHTER_UFOPEDIA: "The biggest threat from these vessels are their long range sonic cannons. Beware of engaging this USO without proper force."
       STR_SEEKER_UFOPEDIA: "This is basically a fighter USO, equipped with Alien molecular shields. Aliens use these dangerous vessels as hunter-seekers to try to sink our subs."
-
+      STR_ENVOY: "Envoy"
+      STR_ENVOY_UFOPEDIA: "This small USO carries a powerful MC-shield, which makes them a formidable opponent. It is used mostly by strongest aliens."
+      STR_BOMBER: "Bomber"
+      STR_BOMBER_UFOPEDIA: "This large USO is a bit slower than battleship, but equipped with a powerful MC-shield, which makes them allmost indestructible. It is used mostly by strongest aliens in their assaults."
+      
       STR_HOR1: "Ancient Horror"
       STR_HOR2: "Ancient Horror"
       STR_HOR3: "Ancient Horror"
@@ -502,7 +510,11 @@ extraStrings:
       STR_ALIEN_INTERCEPTION_LATE: "Alien Interception"
 
       STR_ALIEN_RETALIATION_S: "Alien Raid"
-      STR_ALIEN_RETALIATION_S_UFOPEDIA: "Sometimes Aliens will be proactive and try to prevent surface threats from interfering with their plans. They may dispatch a fleet of small ships in order to find and attack X-Com directly. However, the Aliens have to find an X-Com base in order to attack it, and if Alien USO's are kept away then there should be little danger of an assault. Nevertheless, our base defense systems must be strong and effective enough to repel those attacks."
+      STR_ALIEN_RETALIATION_S_UFOPEDIA: "Sometimes Aliens will be proactive and try to prevent surface threats from interfering with their plans. They may dispatch a fleet of small ships in order to find and attack X-Com directly. However, the Aliens have to find an X-Com base in order to attack it, and if Alien USOs are kept away then there should be little danger of an assault. Nevertheless, our base defense systems must be strong and effective enough to repel those attacks."
+      STR_ALIEN_RETALIATION2: "Floating Base Attack"
+      STR_ALIEN_SURFACE_ATTACK2: "Alien Surface Attacks"
+      STR_ALIEN_SHIP_ATTACK2: "Alien Ship Attacks"
+      STR_ALIEN_SHIP_ATTACK: "Alien Ship Attacks"
       STR_ALIENS_SEEN: "Suspicious underwater activity detected." #alert
       STR_MONSTERS_UNDERWATERM: "ALIEN PRESENCE" #marker
       STR_MONSTERS_UNDERWATERM_BRIEFING: "People aboard passing ships have reported strange creatures emerging from the depths. Investigate the area and search for answers. Extreme caution is advised. This mission will be completed when all enemy units have been eliminated or neutralized. Recovery of any artifacts, technology, and corpses can then be initiated. To abort the mission, return X-Com aquanauts to the submarine or DPV rendezvous and click on the 'Abort Mission' icon."
@@ -570,9 +582,9 @@ extraStrings:
       STR_COLD_EXCAVATION_A: "Aliens are assaulting a military base!"
       STR_COLD_EXCAVATION_T: "DEFENSE OF MILITARY BASE UNDER"
       STR_COLD_EXCAVATION_M: "ALIEN ASSAULT"
-      STR_COLD_EXCAVATION_D: "Aliens are attacking a secret military research facility. Our goal is to help the defending soldiers protect the installation. There are two levels to the site. Get all the aquanauts to the glowing exit and click on the 'Abort Mission' icon to proceed. Any equipment left behind will be unavailable until the underground site is cleared. To quit, place aquanauts into the flying sub or drop cord rendezvous and click on the 'Abort Mission' icon."
+      STR_COLD_EXCAVATION_D: "Aliens are attacking a secret military research facility. Your goal is to help the defending soldiers protect the installation. There are two levels to the site. Get all the aquanauts to the glowing exit and click on the 'Abort Mission' icon to proceed. Any equipment left behind will be unavailable until the underground site is cleared. To quit, place aquanauts into the Submarine and click on the 'Abort Mission' icon."
       STR_ABANDONED_CRYPT: "ALIEN ASSAULT LEVEL 2"
-      STR_ABANDONED_CRYPT_A: "Aliens are assaulting a classified archaeological site..."
+      STR_ABANDONED_CRYPT_A: "Aliens are assaulting a classified archeological site..."
       STR_ABANDONED_CRYPT_T: "SECRET EXCAVATION SITE UNDER"
       STR_ABANDONED_CRYPT_M: "ALIEN ASSAULT"
       STR_ABANDONED_CRYPT_D: "Your path leads you down into the freshly uncovered ruins of an unknown origin. Eliminate all threats to secure the area."
@@ -609,13 +621,13 @@ extraStrings:
       STR_WORMS_TERROR_A: "Monsters are terrorizing an island!"
       STR_WORMS_TERROR_T: "INTERVENTION AT THE SITE OF"
       STR_WORMS_TERROR_M: "MONSTER TERROR"
-      STR_WORMS_TERROR_D: "Recently aquatic monsters have emerged from the sea and assaulted a civilian population on a habitated island. Our squad must eliminate all monsters and protect innocent bystanders from this incursion. To quit, place aquanauts into the flying sub or drop cord rendezvous and click on the 'Abort Mission' icon."
+      STR_WORMS_TERROR_D: "Recently aquatic monsters have emerged from the sea and assaulted a civilian population on a habitated island. Your squad must eliminate all monsters and protect innocent bystanders from this incursion. To quit, place aquanauts into the flying sub and click on the 'Abort Mission' icon."
       STR_FLOATING_ISLAND: "FLOATING ISLAND"
       STR_WORMS_ISLAND: "FLOATING ISLAND"
       STR_WORMS_ISLAND_A: "A floating Mind Worm island has been detected."
       STR_WORMS_ISLAND_T: "X-COM INFILTRATION OF A"
       STR_WORMS_ISLAND_M: "FLOATING ISLAND"
-      STR_WORMS_ISLAND_D: "Our craft has landed on the hardened surface of a floating island created by tons and tons of consolidated and petrified shells of Mind Worms. Their interference with our neural activity is intense, so we cannot stay here for long. Luckily, these creatures appear passive and dormant. Our goal is to secure the area against any active enemies to provide our field research team with an opportunity to collect data."
+      STR_WORMS_ISLAND_D: "Our craft has landed on the hardened surface of a floating island created by tons and tons of the petrified shells of Mind Worms stuck together. Their interference with our neural activity is intense, so we cannot stay here for long. Luckily, these creatures appear passive and dormant. Your goal is to secure the area against any active enemies to provide our field research team with an opportunity to collect data."
 
       STR_WORMS_LAUNCH_PORT_TERROR: "Floating island spotted at a civilian port!"#alert
       STR_WORMS_TERROR_SITE: "MIND WORMS ATTACK PORT"
@@ -635,11 +647,11 @@ extraStrings:
       STR_IMP_SOLDIER: "Cyborg Aquanaut"
       STR_SLIME_UFOPEDIA: "Our aquanauts call these slimy creatures 'creepers'. They move quickly, stroking the water with numerous tentacles. These tentacles are tipped with sharp, venomous needles, which can pierce light armor. While their gelatinous bodies are quite fragile, we're best off dispatching them at a distance."
       STR_SLIME_AUTOPSY: "Creeper autopsy"
-      STR_SLIME_AUTOPSY_UFOPEDIA: "Although these creatures looks like a tangle of thin tentacles, their closest ancestor is the starfish. The bodies of creepers contain many genetically different organs, presumably implanted artificially."
+      STR_SLIME_AUTOPSY_UFOPEDIA: "Although these creatures looks like a tangle of thin tentacles, their closest ancestor is the starfish. The bodies of creepers contain many genetically different organs, presumably implanted artifically."
       STR_SLIME: "Creeper"
       STR_SLIME_TERRORIST: "Creeper Terrorist"
       STR_SLIME_CORPSE: "Creeper Corpse"
-      STR_SERVITOR_UFOPEDIA: "These small creatures accompany Jellymen. They can manipulate the water pressure around them in an inexplicable way. We believe this is how they move and attack. Upon dying, the pressurized water in their bodies is abruptly released, which typically produces a small explosion."
+      STR_SERVITOR_UFOPEDIA: "These small creatures accompany Jellymen. They can manipulate the water pressure around them in an inexpicable way. We believe this is how they move and attack. Upon dying, the pressurized water in their bodies is abruptly released, which typically produces a small explosion."
       STR_SERVITOR_AUTOPSY: "Scullshrimp autopsy"
       STR_SERVITOR_AUTOPSY_UFOPEDIA: "Little is left of these creatures after death. Huge, built-up pressures in their skull-like bodies tear them to tiny pieces when they die. Nevertheless, we have concluded that they are nothing more than larvae of the Jellymen's standard weaponry - Squeezers. Unfortunately we still cannot understand how their ability to compress water works."
       STR_SERVITOR: "Scullshrimp"
@@ -667,7 +679,7 @@ extraStrings:
       STR_NAGA_SORCEROR: Naga Sorceror
       STR_NAGA_CORPSE: "Naga Corpse"
       STR_NAGA_AUTOPSY: "Naga autopsy"
-      STR_NAGA_UFOPEDIA: "These snake-like creatures have ancient roots. Surmounting evidence of their early presence persists in historical records and mythological accounts. We now have proof that these underwater snakes have established their own civilization on the sea bottom. It seems like they've agreed to form an alliance with the Aliens, and therefore represent a serious danger to us."
+      STR_NAGA_UFOPEDIA: "These snake-like creatures have ancient roots. Surmounting evidence of their early presense persists in historical records and mythological accounts. We now have proof that these underwater snakes have established their own civilization on the sea bottom. It seems like they've agreed to form an alliance with the Aliens, and therefore represent a serious danger to us."
       STR_NAGA_AUTOPSY_UFOPEDIA: "Internal structures in Naga bodies prove that they are indeed Earth creatures. DNA testing traces their origin to the Cretaceous or even the Jurassic period. Small cybernetic implants were found in their brains surrounded by relatively fresh scarring."
 
       STR_DROWN_UFOPEDIA: "The Naga deploy these creatures as terror weapons. Naturally, they are stinking, rotting bodies bloated from being long under water. Despite this, they can move swiftly and even fight. We do not currently understand how."
@@ -698,20 +710,20 @@ extraStrings:
       STR_MUTANT1_CORPSE: Mutant Corpse
       STR_MUTANT2_CORPSE: Mutant Corpse
       STR_MUTANT_INTERROGATION: Mutated Human Interrogation
-      STR_MUTANT_INTERROGATION_UFOPEDIA: "Physical tests of these subjects shows greatly increased strength and endurance, while psychological examination indicates significantly reduced intelligence. These poor people are obsessed with their god, who they call the Sleeping One. All we were able to get from them were vague threats and promises of revenge from 'His Servants'. Apparently, some kind of mental suppression treatments were used on them, but no signs of Psionic exposure were found."
+      STR_MUTANT_INTERROGATION_UFOPEDIA: "Physical tests of these subjects shows greatly increased strength and endurance, while psychological examination indicates significantly reduced intelligence. These poor people are obessed with their god, who they call the Sleeping One. All we were able to get from them were vague threats and promises of revenge from 'His Servants'. Apparently, some kind of mental suppression treatments were used on them, but no signs of psionic exposure were found."
       STR_MUTANT0: Mutant
       STR_MUTANT1: Mutant
       STR_MUTANT2: Mutant
       STR_OCT: Oct
       STR_OCT_UFOPEDIA: "Despite the horrific shape, these are extremely intelligent beings. Their implants work as some kind of antennae or signal amplifiers, increasing their already huge M.C. potential and making them truly terrible foes. They will rarely attack up close, but if they do their mighty tentacles can rip an aquanaut in half."
       STR_OCT_AUTOPSY: Oct autopsy
-      STR_OCT_AUTOPSY_UFOPEDIA: "The body of this giant octopus has been infused with hundreds of cybernetic enhancements, making it nearer to a robot than a living creature. The presence of reproductive organs is diminished in favor of a highly complex central nervous system."
+      STR_OCT_AUTOPSY_UFOPEDIA: "The body of this giant octopus has been infused with hundreds of cybernetic enchancements, making it nearer to a robot than a living creature. The presence of reproductive organs is diminished in favor of a highly complex central nervous system."
       STR_OCT_TERRORIST: Oct Terrorist
       STR_OCT_CORPSE: Oct Corpse
       STR_GHOST: Ghost
       STR_GHOST_UFOPEDIA: "A covey of tiny drones forming shapeless clouds in the water. Alone they are harmless, but en masse they create powerful electromagnetic impulses, capable of boiling a human brain inside heavy armor. Our aquanauts call them 'Ghosts' because bot swarms sometimes resemble the shape of a transparent human body."
       STR_GHOST_AUTOPSY: Ghost Wreck Examination
-      STR_GHOST_AUTOPSY_UFOPEDIA: "Single drones consist of tiny ion pulse engines and relatively simple logical circuits. They make minuscule movements in only one direction through twitching jumps, but an array of three to four bots is smart enough to attack or run away. Due to their small individual sizes they are resistant to projectiles, but they can be scattered by heat or a blast wave."
+      STR_GHOST_AUTOPSY_UFOPEDIA: "Single drones consist of tiny ion pulse engines and relatively simple logical circuits. They make miniscule movements in only one direction through twitching jumps, but an array of three to four bots is smart enough to attack or run away. Due to their small individual sizes they are resistant to projectiles, but they can be scattered by heat or a blast wave."
       STR_GHOST_TERRORIST: Ghost Terrorist
       STR_GHOST_CORPSE: Ghost Wreck
       STR_NEEDLER: "Needler"
@@ -721,8 +733,8 @@ extraStrings:
       STR_NEEDLER_TERRORIST: Needler Terrorist
       STR_NEEDLER_CORPSE: Needler Corpse
       STR_MINDWORMS: "Mind Worms"
-      STR_MINDWORMS_UFOPEDIA: "These slimy worms float by flapping a tangle of appendages. Their very presence causes panic and hallucinations. While the effect generated by one specimen is almost imperceptible, close contact with a swarm may cause severe shock to anyone with a weak will. Maybe this was originally a natural defense mechanism, but now, empowered by Alien genetic experiments and mutations, their collective presence has become a powerful weapon."
-      STR_MINDWORMS_AUTOPSY_UFOPEDIA: "This is definitely an Alien species. Its genetic structure is completely different from any life found on Earth. The most remarkable thing is that we have not found any cybernetic inclusions in their bodies."
+      STR_MINDWORMS_UFOPEDIA: "These slimy worms float by flapping a tangle of appendages. Their very presence causes panic and hallucinations. While the effect generated by one specimen is almost imperceptible, close contact with a swarm may cause severe shock to anyone with a weak will. Maybe this was orifinally a natural defense mechanism, but now, empowered by Alien genetic experiments and mutations, their collective presence has become a powerful weapon."
+      STR_MINDWORMS_AUTOPSY_UFOPEDIA: "This is definetely an Alien species. Its genetic structure is completely different from any life found on Earth. The most remarkable thing is that we have not found any cybernetic inclusions in their bodies."
       STR_MINDWORMS_AUTOPSY: "Mind Worm autopsy"
       STR_MINDWORMS_TERRORIST: "Mind Worms"
       STR_MINDWORMS_CORPSE: "Mind Worm Corpses"
@@ -730,7 +742,7 @@ extraStrings:
       STR_MINDWORMS_L_CORPSE: "Mind Worm Corpses"
       STR_LOCUST: "Locust"
       STR_LOCUST_UFOPEDIA: "This beings looks like an insect of some sort, but that is not the case. In fact, they are Mind Worms coated in hard shells and equipped with wings. Their very presence causes panic and hallucinations. While the effect generated by one specimen is almost imperceptible, close contact with a swarm may cause severe shock to anyone with a weak will. They are truly horrible terror weapon."
-      STR_LOCUST_AUTOPSY_UFOPEDIA: "The inner structures of this species are similar to that of the Mind Worms. The only differences are in the rigid outer covers and degree of development of the fins. Just like their sea brethren, the bodies of Locusts do not contain any cybernetic inclusions. Due to their small sizes and hard shells, piercing weapons will be less effective against them."
+      STR_LOCUST_AUTOPSY_UFOPEDIA: "The inner structures of this species are simliar to that of the Mind Worms. The only differences are in the rigid outer covers and degree of development of the fins. Just like their sea brethren, the bodies of Locusts do not contain any cybernetic inclusions. Due to their small sizes and hard shells, piercing weapons will be less effective against them."
       STR_LOCUST_AUTOPSY: "Locust autopsy"
       STR_LOCUST_TERRORIST: "Locust"
       STR_LOCUST_CORPSE: "Locust Corpses"
@@ -752,9 +764,9 @@ extraStrings:
       STR_HELLCRAB: Hellcrab
       STR_HELLCRAB_CORPSE: Hellcrab Corpse
       STR_HELLCRAB_AUTOPSY: "Hellcrab autopsy"
-      STR_HELLCRAB_AUTOPSY_UFOPEDIA: "This creature is truly a masterpiece of Alien biotechnology. Its aqua plastic carapase proves tougher than a USO hull. A Molectronic neuronet works as a dispersed brain. It also has five independent hearts. These traits leave this creature completely without a weak spot. Another remarkable thing is that the implanted sonic cannon uses not a Zrbite battery, but a 'natural' biological power source."
+      STR_HELLCRAB_AUTOPSY_UFOPEDIA: "This creature is truly a masterpiece of Alien biotechnology. Its aqua plastic carapase proves tougher than a USO hull. A molectronic neuronet works as a dispersed brain. It also has five independent hearts. These traits leave this creature completely without a weak spot. Another remarkable thing is that the implanted sonic cannon uses not a Zrbite battery, but a 'natural' biological power source."
       STR_HELLCRAB_TERRORIST: Hellcrab Terrorist
-      STR_HELLCRAB_UFOPEDIA: "This disgusting pink monstrosity can be encountered accompanying Freaks in the sea depths or on the surface. It is truly a living tank. Its carapace is almost impenetrable, and its razor-sharp claws can cut steel rails. As if this was not enough, it also possesses a powerful sonic blaster."
+      STR_HELLCRAB_UFOPEDIA: "This disgusting pink monstrosity can be encountered accompanying Freaks in the sea depths or on the surface. It is truly a living tank. Its carapace is almost inpenetrable, and its razor-sharp claws can cut steel rails. As if this was not enough, it also posesses a powerful sonic blaster."
       STR_CARCHARODON: Carcharodon
       STR_CARCHARODON_CORPSE: Carcharodon Corpse
       STR_CARCHARODON_AUTOPSY: Carcharodon autopsy
@@ -771,7 +783,7 @@ extraStrings:
       STR_HEAVYAQUATOID_TECHNICIAN: "Enhanced Aquatoid Technician"
       STR_HEAVYAQUATOID_SQUAD_LEADER: "Enhanced Aquatoid Squad Leader"
       STR_HEAVYAQUATOID_SOLDIER: "Enhanced Aquatoid Soldier"
-      STR_HEAVYAQUATOID_UFOPEDIA: "It is not clear if Aquatoids are copying the features of our armor from us or developing it themselves, but they definitely go their own way. In fact, this is not an armor suit, but a symbiotic organism, giving increased protection and physical parameters to the otherwise quite weak and vulnerable Aquatoids. As a side effect we can see significantly decreased M.C. capabilities in the wearers, which may be related to suit operating needs."
+      STR_HEAVYAQUATOID_UFOPEDIA: "It is not clear if aquatoids are copying the features of our armor from us or developing it themselves, but they definitely go their own way. In fact, this is not an armor suit, but a symbiotic organism, giving increased protection and physical parameters to the otherwise quite weak and vulnerable aquatoids. As a side effect we can see significantly decreased M.C. capabilities in the wearers, which may be related to suit operating needs."
       STR_TASOTHGUARD: "Tasoth Guardian"
       STR_TASOTHGUARD_CORPSE: "Tasoth Guardian Corpse"
       STR_TASOTHGUARD_SQUAD_LEADER: "Tasoth Guardian Leader"
@@ -796,14 +808,14 @@ extraStrings:
       STR_ABYSSIAN_AUTOPSY_UFOPEDIA: "The gelatinous bodies of these creatures came to our research facility heavily damaged. The reason for this is their flimsy structure and rapid decomposition. All we can determine is that their tissues are adapted to the high pressure of the oceanic abyssal depths, and that their nervous system is unusually highly developed. No cybernetic enhancements were found in the remains."
       STR_ABYSSIAN_UFOPEDIA: "Jellymen, or as they call themselves, the Abyssians, are natural Earth creatures who dwell in the ocean's depths of over 10,000 feet. They are sentient and skilled in biology and fluid mechanics. On the battlefield they are dangerous opponents, preferring ranged combat and using bio-engineered organisms as weapons."
       STR_ABYSSIAN_ORIGINS: "Jellymen Origins"
-      STR_ABYSSIAN_ORIGINS_UFOPEDIA: "Abyssians are an ancient civilization, living in deepest ocean caverns secretly and imperceptibly before their initial meeting with the Aliens. They are masters of genetic modifications and control of water streams. Now they have created an alliance with the Aliens, acquiring Zrbite power sources in exchange for bionic technology. Their goal now is to obtain sole control over the world's oceans.{NEWLINE}{NEWLINE}We believe there is a possibility to negotiate with them, and maybe even to convince them to change sides in this war. We just need to find a way to speak with a high-ranking Jellyman official."
+      STR_ABYSSIAN_ORIGINS_UFOPEDIA: "Abyssians are an ancient civilization, living in deepest ocean caverns secretly and imperceptibly before their inital meeting with the Aliens. They are masters of genetic modifications and control of water streams. Now they have created an alliance with the Aliens, acquiring Zrbite power sources in exchange for bionic technology. Their goal now is to obtain sole control over the world's oceans.{NEWLINE}{NEWLINE}We believe there is a possibility to negotiate with them, and maybe even to convince them to change sides in this war. We just need to find a way to speak with a high-ranking Jellyman official."
       STR_ABYSSIAN_TREATY: "Jellymen Treaty"
       STR_ABYSSIAN_TREATY_UFOPEDIA: "We were able to reach an agreement with Abyssians. They will stop aggressive actions against humanity in exchange for humans agreeing to meet certain conditions, mainly of ecological character. This treaty could be the beginning of a new era for humanity."
-      STR_ABYSSIAN_TRADE: "Jellymen Tech Exchange"
-      STR_ABYSSIAN_TRADE_UFOPEDIA: "The Abyssians' understanding and development of the scientific fields of biology and genetics far surpasses our own. With their knowledge and help, we can make a great step forward.."
+      STR_ABYSSIAN_TRADE: "Jellymen tech exchange"
+      STR_ABYSSIAN_TRADE_UFOPEDIA: "Biological and genetic science of Abyssians are far greater than ours. With their help we will make a great step forward."
 
       STR_PROTOBIONT: "Protobiont Physiology"
-      STR_PROTOBIONT_UFOPEDIA: "We now possess conclusive data about the green gelatinous amoebae found inside Calcinite suits. These beings have no cellular structure, much like the first living organisms on Earth. They can be described as a complex mixture of proteins closer, to viruses than bacteria. In macroscopic quantities, they can move effectively and even pursue prey. Growth is limited only by food availability. {NEWLINE}{NEWLINE}Fortunately, humans are immune to Protobiont infection, so these organisms won't start an epidemic, but if injected into the bloodstream in large doses, they will devour any animal or human in seconds. As side effect of fast growth, they will heat up and emit extremely toxic waste.{NEWLINE}{NEWLINE}These organisms can be found naturally in the deepest caverns of the ocean bottom, protected from modern bacteria by extreme pressure and darkness, feeding off carrion. Aliens pack collections of Protobionts into hard shells and control them with Molectronic devices, turning them into strong and resilient puppets."
+      STR_PROTOBIONT_UFOPEDIA: "We now possess conclusive data about the green gelatinous amoebae found inside Calcinite suits. These beings have no cellular structure, much like the first living organisms on Earth. They can be described as a complex mixture of proteins closer, to viruses than bacteria. In macroscopic quantities, they can move effectively and even pursue prey. Growth is limited only by food availability. {NEWLINE}{NEWLINE}Fortunately, humans are immune to Protobiont infection, so these organisms won't start an epidemic, but if injected into the bloodstream in large doses, they will devour any animal or human in seconds. As side effect of fast growth, they will heat up and emit extremely toxic waste.{NEWLINE}{NEWLINE}These organisms can be found naturally in the deepest caverns of the ocean bottom, protected from modern bacteria by extreme pressure and darkness, feeding off carrion. Aliens pack collections of Protobionts into hard shells and control them with molectronic devices, turning them into strong and resilent puppets."
 
 #Abyssian stuff
       STR_SPAWNER: "Breeder"
@@ -818,11 +830,11 @@ extraStrings:
       STR_VAMPIRE_WEAPON_UFOPEDIA: "This unusual symbiont is used by Jellymen as a melee weapon of sorts. It can not only pierce armor with its claws, but simultaneously sucks blood from its targets. It then heals its master by injecting specific regenerative cells into the master's bloodstream."
 #Abyssian ships
       STR_COURIER: "Jellymen Boat"
-      STR_COURIER_UFOPEDIA: "The smallest of Jellymen ships, these are living organisms which use bio-engineered ion beam displacers to deliver crew over long distances. Unarmed."
+      STR_COURIER_UFOPEDIA: "The smallest of Jellymen ships, it is a living organism which uses bioengineered ion beam displacers to deliver crew over long distances. Unarmed."
       STR_DROPSHIP: "Jellymen Yacht"
-      STR_DROPSHIP_UFOPEDIA: "These are living organisms, used by Jellymen as transport and attack crafts. They are weaker and slower compared to Alien USO's of the same size, but still dangerous at short distances."
+      STR_DROPSHIP_UFOPEDIA: "It is a living organism, used by Jellymen as a transport and attack craft. It is weaker and slower compared to an alien USO of the same size, but still dangerous at short distances."
       STR_MOTHERSHIP: "Jellymen Liner"
-      STR_MOTHERSHIP_UFOPEDIA: "These are living organisms, used by Jellymen as heavy transport and assault crafts. They are weaker and slower compared to Alien USO's of the same size, but still dangerous at short distances."
+      STR_MOTHERSHIP_UFOPEDIA: "It is a living organism, used by Jellymen as a heavy transport and assault craft. It is weaker and slower compared to an alien USO of the same size, but still dangerous at short distances."
 
 #Abyssian missions
 
@@ -831,8 +843,8 @@ extraStrings:
       STR_ABYSSIAN_BASE_ASSAULT: "ALIEN COLONY PART ONE"
       STR_ABYSSIAN_COLONY_P2: "ALIEN COLONY PART TWO"
       STR_TSUNAMI_ASSAULT_D: "TSUNAMI GENERATOR" #list name
-      STR_TSUNAMI_ASSAULT_BRIEFING: "This facility collects and concentrates huge amounts of fluid kinetic energy. Our analysis indicates that here Jellymen create enormous ion pulses to generate tsunamis, the targets of which will be our coastal cities. We must stop them. X-Com aquanauts must destroy the weapon's control center and then return to the exit. Alternatively, the mission will be completed when all enemy units have been eliminated or neutralized."#desc
-      STR_TSUNAMI_ASSAULT_MISSION: "X-COM INVASION OF A JELLYMEN" #title
+      STR_TSUNAMI_ASSAULT_BRIEFING: "This facility collects and concentrates huge amounts of fluid kinetic energy. Our scans indicate that here Jellymen create enormous ion pulses to generate tsunamis, the targets of which will be our coastal cities. We must stop them. X-Com aquanauts must destroy the weapon's control center and then return to the exit. Alternatively, the mission will be completed when all enemy units have been eliminated or neutralized."#desc
+      STR_TSUNAMI_ASSAULT_MISSION: "JELLYMEN TSUNAMI GENERATOR"
       STR_TSUNAMI_CONTROL_DESTROYED: "TSUNAMI WEAPON CONTROL DESTROYED"
       STR_TSUNAMI_A: "Jellymen weapon detected."#alert
       STR_TSUNAMI_M: "TSUNAMI GENERATOR"#marker
@@ -840,11 +852,13 @@ extraStrings:
       STR_ABYSSIAN_OUTPOST_T: "X-COM DEFENSE OF A"#title
       STR_ABYSSIAN_OUTPOST_A: "Jellymen outpost under attack!"
       STR_ABYSSIAN_OUTPOST_M: "JELLYMEN OUTPOST"#marker
-      STR_ABYSSIAN_OUTPOST: "JELLYMEN OUTPOST"
-      STR_ABYSSIAN_OUTPOST_D: "A Jellymen outpost is under an assault by Alien forces. We must help our new allies defeat our common enemy. The mission will conclude when all enemy combatants have been killed or neutralized. To quit, place X-Com aquanauts into the flying sub or DPV rendezvous and click on the 'Abort Mission' icon."
+      STR_ABYSSIAN_OUTPOST: "JELLYMAN OUTPOST"
+      STR_ABYSSIAN_OUTPOST_D: "A Jellyman outpost is under an assault by Alien forces. We must help our new allies to defeat our common enemy. The mission will conclude when all enemy combatants have been killed or neutralized. To quit, place X-Com aquanauts into the flying sub or drop cord rendezvous and click on the 'Abort Mission' icon."
       
 #Extraction
       STR_VIVISECTION: "Recycling"
+      STR_MAGNETIC_NAVIGATION_RECYCLE: "Recycle Magnetic Navigation"
+      STR_ION_BEAM_ACCELERATORS_RECYCLE: "Recycle Ion Beam Accelerator"
       STR_PALADIN_RECYCLE: "RECYCLE PALADIN ARMOR"
       STR_AQUATOID_EXTRACTION: "Aquatoid Dissection"
       STR_GILLMAN_EXTRACTION: "Gill Man Dissection"
@@ -855,7 +869,7 @@ extraStrings:
       STR_TENTACULAT_EXTRACTION: "Tentaculat Dissection"
       STR_LOBSTERMAN_EXTRACTION: "Lobsterman Dissection"
       STR_GHOST_EXTRACTION: "Ghost Disassembly"
-      STR_BIODRONE_EXTRACTION: "Bio-Drone Disassembly"
+      STR_BIODRONE_EXTRACTION: "Bio-Drone Disassemby"
       STR_XARQUID_EXTRACTION: "Xarquid Dissection"
       STR_HALLUCINOID_EXTRACTION: "Hallucinoid Dissection"
       STR_TRISCENE_EXTRACTION: "Triscene Dissection"
@@ -883,21 +897,22 @@ extraStrings:
       STR_BELL: "Outpost"
       STR_BELL_UFOPEDIA: "A small habitation module, 'Precontinent 4' provides a self-sustaining environment including living space for five aquanauts and 25 storage spaces."
       STR_MEDBAY: "Medbay"
-      STR_MEDBAY_UFOPEDIA: "A small infirmary with high-tech medical equipment, which speeds up restoration of wounded soldiers one and a half times. Limit one per base."
-      STR_MEDBAY2: "Regeneration Bay"
-      STR_MEDBAY2_UFOPEDIA: "Using Alien cloning and Abyssian biotech, we can put our wounded Aquanauts back in service in a matter of hours. This facility can be built over top of a medbay, because we only need to install new equipment. The upgrades will take around five days. Limit one per base."
-      STR_CONTROL_CENTER: "Naval Control Center"
-      STR_CONTROL_CENTER_UFOPEDIA: "This sophisticated data processing facility resolves signals from across the globe, maintaining a real time map of all naval events. It cannot detect Alien subs, but already detected vessels cannot escape from our sight now. {NEWLINE}VERY EXPENSIVE."
-      STR_ADVCONTROL_CENTER: "Transmission Nexus"
-      STR_ADVCONTROL_CENTER_UFOPEDIA: "The synomium technology now serves us for Alien detection purposes. Upgrading our Naval Control Center is the next step. This facility provides detailed info about previously detected USO's across the globe. It can be built over top of an existing Naval Control Center, reducing construction time. {NEWLINE}VERY EXPENSIVE."
+      STR_MEDBAY_UFOPEDIA: "Small infirmary with hi-tech medical equipment. Speeds up restoration of wounded soldiers one and a half times. One per base."
+      STR_MEDBAY2: "Regeneration bay"
+      STR_MEDBAY2_UFOPEDIA: "Using alien cloning and Abyssian biotech, we can put our wounded aquanauts back to service in a matter of hours. This facility can be built over top of medbay, we need only to place new equipment, so it will take around 5 days. One per base."
+      STR_CONTROL_CENTER: "Naval control center"
+      STR_CONTROL_CENTER_UFOPEDIA: "This sophisticate data processing facility resolving signals from across the globe, maintaining real time map of all naval events. It can not detect alien subs, but allready detected vessels can not escape from our eyes now. VERY EXPENSIVE."
+      STR_ADVCONTROL_CENTER: "Transmission nexus"
+      STR_ADVCONTROL_CENTER_UFOPEDIA: "The synomium technology now serve us for alien detection purposes. Upgrade of our Naval control center is a next step. This facility provide detailed info about previously detected USO across the globe. It can be build over the top of existing Naval control center, reducing construction time.VERY EXPENSIVE."
       STR_LABORATORY_UFOPEDIA: "Twenty-five scientists can work in a single laboratory block. Laboratories are equipped with all the latest technologies for research into materials, biochemistry, and weaponry. X-Com has access to all the best research labs throughout the world, both civilian and military."
       STR_SONIC_DEFENSES_UFOPEDIA: "Sonic Oscillator defenses provide powerful and efficient protection against aggressors."
-      STR_PWT_DEFENSES_UFOPEDIA: "Pulse Wave Torpedoes provide the most effective defense against Alien attacks. These missiles have super dense war heads which can penetrate all known armor. The magnetic waves they produce disable electronic defenses."
+      STR_PWT_DEFENSES_UFOPEDIA: "Pulse Wave Torpedoes provide the most effective defense against Alien attacks. These missiles have super dense war heads which can penetrate all known armour. The magnetic waves they produce disable electronic defenses."
       STR_BOMBARDMENT_SHIELD_UFOPEDIA: "The Pressure Bombardment shield protects the base from Alien submersibles docking and sets up a resonating field that repulses attacking subs long enough for defense systems to fire repeatedly. In effect this doubles the effectiveness of any defense systems already deployed."
       STR_MC_GENERATOR_UFOPEDIA: "Since Alien subs utilize Molecular Control Technology to detect the presence of living creatures, using a negative M.C. emitter will blanket a base with an impenetrable shield to confuse the Aliens and disguise our presence."
       STR_MC_LAB_UFOPEDIA: "The Molecular Control lab can implant and train up to ten aquanauts at one time. Implants are surgically installed in the skulls of aquanauts. Extensive training allows them to utilize their implants. Implant skills are used in conjunction with a Molecular Device and can be used for attacks during combat."
       STR_TRANSMISSION_RESOLVER_UFOPEDIA: "Alien communications utilize the Molecular Control implant network the Aliens have built up. The transmission resolver facility intercepts Alien Sub transmissions and decodes the information. This will show the type of Alien Sub, the Alien race and the type of activity that is occurring."
 #Other
+      STR_HIRING: "Personnel implantation"
       STR_ALIEN_DIES_NO_ALIEN_CONTAINMENT_FACILITY_1: "The infested humans have died."
       STR_MIND_BEND_TXT: "HIGH PSYCHIC PRESSURE!"
       STR_MC_ATTACK: "Resonance"
@@ -906,7 +921,7 @@ extraStrings:
       STR_WE_CAN_NOW_RENT: "We can now rent:"
       STR_ASSIGN_PILOTS: "Assign pilots"
       STR_OXCE: "Extended"
-      STR_OPENXCOM: "OXCom TFTD: TWoTS 2.11"
+      STR_OPENXCOM: "OXCom TFTD: TWoTS 2.12"
       STR_INFO: "Description"
       STR_COUP_DE_GRACE: "Option to execute unconscious enemies"
       STR_COUP_DE_GRACE_DESC: "Hold an enemy in one hand, and any melee-capable weapon in the other, then click on the enemy to kill them instantly."
@@ -1011,7 +1026,7 @@ extraStrings:
       STR_GRAND_TOTAL: "Grand Total"
 # divider
       STR_PERSON_JOINING: "Person Joining"
-      STR_NOT_ENOUGH_LIVING_SPACE_AT_BASE: "Not enough living space to accommodate{NEWLINE}{0}{NEWLINE}at{NEWLINE}{1}"
+      STR_NOT_ENOUGH_LIVING_SPACE_AT_BASE: "Not enough living space to accomodate{NEWLINE}{0}{NEWLINE}at{NEWLINE}{1}"
 # divider
       STR_RANK_NONE: "-"
 # divider
@@ -1153,13 +1168,13 @@ extraStrings:
       STR_PILOT_MISSING: "PILOT MISSING"
       STR_YOU_HAVE_FAILED: "You have failed to stop the Alien war machine. The funding organizations, disillusioned by your incompetence, try to negotiate a non-military solution with the Aliens. The invaders have a much different agenda, though, and soon the whole world is made aware of the truth..."
       STR_PLASTIC_AQUA_ARMOR_UFOPEDIA: "This armor utilizes the newly discovered Alien substance, aqua plastics, and ensures our aquanauts are given a fighting chance against the Alien incursion"
-      STR_ION_BEAM_ACCELERATORS_UFOPEDIA: "Alien flying submarines rely on complex power systems to drive them at incredible speed through the seas. The basis for their technology is the Ion Displacer. Utilizing Zrbite as a catalyst, the engines displace 100 times their own volume in water per second. This enormous power means that the Aliens are capable of outrunning most Earth subs. We can replicate this system of propulsion using aqua plastics and Zrbite power cells."
+      STR_ION_BEAM_ACCELERATORS_UFOPEDIA: "Alien flying submarines rely on complex power systems to drive them at incredible speed through the deeps. The basis for their technology is the Ion Displacer. Utilizing Zrbite as a catalyst, the engines displace 100 times their own volume in water per second. This enormous power means that the aliens are capable of outrunning most Earth subs. We can replicate this system of propulsion using aqua plastics and Zrbite power cells."
       STR_DISRUPTOR_AMMO_UFOPEDIA: "This device is a Disruptor Pulse Projectile fitted with an onboard computer guidance system. It is fired from a Disruptor Pulse Launcher."
-      STR_ALIEN_SUB_CONSTRUCTION_UFOPEDIA: "Each vessel has a chameleon-like structure, carefully modeled on sea creatures, and constructed of aqua plastics. Each submarine functions as an organism: crew and craft in harmony. Most of these systems can be replicated and a hybrid technology can be evolved to allow us to move up to the same technological level."
+      STR_ALIEN_SUB_CONSTRUCTION_UFOPEDIA: "Each vessel has a chameleon-like structure, carefully modelled on sea creatures, and constructed of aqua plastics. Each submarine functions as an organism: crew and craft in harmony. Most of these systems can be replicated and a hybrid technology can be evolved to allow us to move up to the same technological level."
       STR_MEDI_KIT_UFOPEDIA: "To use this you face an injured {NEWLINE}X-Com agent or stand over the body of a stunned aquanaut.{NEWLINE}HEALING> Red indicates wounds. Select the affected body part and click on the 'Heal' button. One fatal wound will be healed and some health will be restored.{NEWLINE}STIMULANT> Restores energy and revives stunned aquanauts. To revive an unconscious aquanaut you must stand directly over the body.{NEWLINE}PAIN KILLER> Restores the morale of wounded aquanauts."
       STR_THERMAL_SHOK_LAUNCHER_UFOPEDIA: "A small Thermal Shok Launcher which fires chemical freeze bombs. It should prove very useful for capturing live Aliens."
       STR_ALIEN_PROBE_MISSION_UFOPEDIA: "The Alien Probe Mission is used for collecting data about the seabed, its resources, and the shipping routes and airplane flight paths of an area. The Alien subs involved in these missions are not a major threat by themselves, but they indicate sites of activity that may flare up at any time."
-
+## Last updated: 2018-04-05
 #BasescapeState.cpp
       STR_CANNOT_DISMANTLE_FACILITY_UPGRADING: "CANNOT DISMANTLE FACILITY!{SMALLLINE}Facility cannot be removed during upgrading."
 #BaseView.cpp
@@ -1168,4 +1183,4 @@ extraStrings:
       STR_CANNOT_UPGRADE_FACILITY_WRONG_TYPE: "CANNOT BUILD HERE!{SMALLLINE}Existing facility cannot be upgraded over by selected facility."
       STR_CANNOT_UPGRADE_FACILITY_DISALLOWED: "CANNOT BUILD HERE!{SMALLLINE}Existing facility cannot be built over."
       STR_CANNOT_BUILD_QUEUE_OFF: "CANNOT BUILD HERE!{SMALLLINE}Connecting facilities must finish construction first."
-## Last updated: 2018-06-03  
+  
