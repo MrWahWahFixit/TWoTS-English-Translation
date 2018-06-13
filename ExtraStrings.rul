@@ -345,6 +345,7 @@ extraStrings:
       STR_CORPSE_ABIOSUIT: "Corpse"
       STR_CORPSE_MC_ARMOR: "Corpse"
       STR_CORPSE_EXOSUIT: "Corpse"
+      STR_CORPSE_HAZMAT: "Corpse"
       STR_CORPSE_NEWTSUIT: "Corpse"
       STR_CORPSE_LUNG: "Corpse"
       STR_WALKER_UC: "CYCLOP ARMOR"
@@ -502,7 +503,7 @@ extraStrings:
       STR_ANCIENT_HORROR2: "Wanders"
       STR_ANCIENT_HORROR3: "Wanders"
       STR_ANCIENT_HORRORS: "Sea Horrors"
-      STR_ANCIENT_HORRORS_UFOPEDIA: "We don't know if it was recent Alien activity or our own, but something has disturbed what we believe to be yet another ancient sea civilization. Long forgotten, horrific beings now rise from the depths, and no one will be pleased to meet them."
+      STR_ANCIENT_HORRORS_UFOPEDIA: "We don't know if it was recent Alien activity or our own, but something has disturbed the inhabitants of the sea depths. Long forgotten, horrific beings now rise from the depths, and no one will be pleased to meet them."
 #missions
       STR_ALIEN_CRUISE: "Alien Cruising"
       STR_ALIEN_CRUISE_UFOPEDIA: "Aliens conduct cruising operations to sink civilian ships, destroy coastal infrastructure, and arouse panic and distress. They deploy small- or medium-sized USO's for these missions, which will roam under the sea surface but never land. The longer these Alien vessels are allowed to be active, the more damage they'll cause, and the more our reputation will suffer."
@@ -922,7 +923,7 @@ extraStrings:
       STR_WE_CAN_NOW_RENT: "We can now rent:"
       STR_ASSIGN_PILOTS: "Assign pilots"
       STR_OXCE: "Extended"
-      STR_OPENXCOM: "OXCom TFTD: TWoTS 2.12"
+      STR_OPENXCOM: "OXCom TFTD: TWoTS 2.13"
       STR_INFO: "Description"
       STR_COUP_DE_GRACE: "Option to execute unconscious enemies"
       STR_COUP_DE_GRACE_DESC: "Hold an enemy in one hand, and any melee-capable weapon in the other, then click on the enemy to kill them instantly."
@@ -1184,4 +1185,4 @@ extraStrings:
       STR_CANNOT_UPGRADE_FACILITY_WRONG_TYPE: "CANNOT BUILD HERE!{SMALLLINE}Existing facility cannot be upgraded over by selected facility."
       STR_CANNOT_UPGRADE_FACILITY_DISALLOWED: "CANNOT BUILD HERE!{SMALLLINE}Existing facility cannot be built over."
       STR_CANNOT_BUILD_QUEUE_OFF: "CANNOT BUILD HERE!{SMALLLINE}Connecting facilities must finish construction first."
-## Last updated: 2018-06-08  
+## Last updated: 2018-06-13  
